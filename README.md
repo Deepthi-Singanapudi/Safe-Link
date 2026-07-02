@@ -152,8 +152,8 @@ These describe request flow, risk computation, and data storage design.
 
 ## Author
 
-**Harshitha Somu**  
-GitHub: https://github.com/Harshitha-Somu
+**Satya Sri Deepthi**  
+GitHub: https://github.com/Deepthi-Singanapudi
 
 ---
 
